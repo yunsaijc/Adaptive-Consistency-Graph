@@ -1,0 +1,10 @@
+{
+  "travel_evaluator_config": {
+    "model": "",
+    "base_url": "",
+    "api_key_env": "ACG_JUDGE_API_KEY",
+    "temperature": 0.0,
+    "max_tokens": 10240,
+    "timeout_seconds": 600
+  }
+}

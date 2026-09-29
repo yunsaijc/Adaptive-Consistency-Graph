@@ -1,0 +1,8 @@
+{
+  "benchmark": "swe_bench_lite",
+  "task_id": "INSTANCE_ID",
+  "config_path": "data/swe-bench-lite.json",
+  "container_name": "acg-swe-task",
+  "start_container": true,
+  "max_steps": 100
+}

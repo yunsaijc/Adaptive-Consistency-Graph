@@ -1,0 +1,9 @@
+{
+  "benchmark": "deepplanning_shopping",
+  "task_id": "1",
+  "assets_path": "assets/deepplanning",
+  "workdir": "outputs/shopping-work",
+  "level": 1,
+  "case_id": "case_1",
+  "max_steps": 100
+}

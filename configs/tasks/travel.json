@@ -1,0 +1,8 @@
+{
+  "benchmark": "deepplanning_travel",
+  "task_id": "id_0",
+  "assets_path": "assets/deepplanning",
+  "workdir": "outputs/travel-work",
+  "language": "en",
+  "max_steps": 100
+}

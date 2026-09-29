@@ -1,0 +1,18 @@
+{
+  "agent": {
+    "max_context": 32768,
+    "max_output_tokens": 4096,
+    "safety_margin": 1024,
+    "graph_output_tokens": 2048,
+    "projection_tokens": 5000
+  },
+  "model": {"temperature": 0.0, "timeout_seconds": 120, "retries": 1, "structured_output": "json_schema"},
+  "budget": {
+    "max_requests": 1000,
+    "max_executor_calls": 100,
+    "max_graph_calls": 100,
+    "max_input_bytes": 16000000,
+    "max_output_tokens": 500000,
+    "timeout_seconds": 1800
+  }
+}

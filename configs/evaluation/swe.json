@@ -1,0 +1,7 @@
+{
+  "dataset_path": "data/swe-bench-lite.json",
+  "harness_root": "assets/swe-bench",
+  "run_id": "acg-evaluation",
+  "python": "python",
+  "timeout_seconds": 1800
+}

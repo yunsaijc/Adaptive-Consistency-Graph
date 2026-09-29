@@ -1,0 +1,7 @@
+{
+  "benchmark": "browsecomp_plus",
+  "task_id": "QUERY_ID",
+  "config_path": "data/browsecomp-plus.json",
+  "retriever_url": "",
+  "max_steps": 100
+}
